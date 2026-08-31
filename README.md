@@ -14,6 +14,8 @@ This repository contains different projects that cover the basics of digital log
 - Multiplexer — selects between different inputs
 - D Flip-Flop — stores a single bit of data
 - D Flip-Flop and Gates — flip-flops combined with logic gates
+- RS Flip-Flop
+- JK Flip-Flop
 - Decade Counter — counts from 0 to 9
 - Four-Bit Counter — 4-bit binary counter
 - Comparator
