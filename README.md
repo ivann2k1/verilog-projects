@@ -10,6 +10,7 @@ This repository contains different projects that cover the basics of digital log
 - 7420 & 7458 Chips — logic gate circuits
 - Arithmetic Logic Unit (ALU)
 - FIFO
+- Semaphore Finite State Machine
 - Half Adder & Full Adder — binary addition circuits
 - 16-Bit Adder — 16-bit binary addition
 - Carry-Select Adder — faster binary addition
@@ -32,4 +33,5 @@ This repository contains different projects that cover the basics of digital log
 - Flip-Flops
 - Adders
 - Counters
+- FSM
 - Multiplexers
